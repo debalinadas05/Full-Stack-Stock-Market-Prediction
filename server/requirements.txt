@@ -8,4 +8,3 @@ scikit-learn
 pytest
 matplotlib
 shap
-pip freeze > requirements.txt
